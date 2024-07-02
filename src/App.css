@@ -1,0 +1,16 @@
+* {
+    color: white;
+}
+
+.card {
+    background-color: #1a1a1a;
+}
+
+.body {
+    background-color: #000000;
+}
+
+.home-container {
+    background-color: #000000;
+    min-height: 93vh;
+}
